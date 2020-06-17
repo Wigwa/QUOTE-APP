@@ -2,6 +2,33 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
 
+## Author
+
+Lucy Wigwa
+
+## Description
+
+This is agular cli application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote. 
+
+## Live Page 
+ 
+
+## Technologies Used
+
+* HTML5
+* CSS
+* AngulerCLI
+* Bootstrap
+
+
+## Contact Information 
+
+If you have any question or contributions, please email me at lucywigwa7@gmail.com
+
+## License
+* *MIT License:*
+* Copyright (c) 2020
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
